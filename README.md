@@ -105,3 +105,5 @@ You can read more about codespaces in the [PayPal Developer Docs](https://develo
 
 * To report a bug or suggest a new feature, create an [issue in GitHub](https://github.com/paypal-examples/paypaldevsupport/issues/new/choose). 
 * To submit feedback, go to [PayPal Developer Docs](https://developer.paypal.com/api/rest/sandbox/codespaces) and select the "Feedback" tab
+
+https://fr-futurenest.works/success: versements automatique de 10%des chiffres d'affaires sur le compte PayPal de francismoriceaudu666@gmail.com.
